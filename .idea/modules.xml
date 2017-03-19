@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CustomView.iml" filepath="$PROJECT_DIR$/CustomView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spinner/Spinner.iml" filepath="$PROJECT_DIR$/Spinner/Spinner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lunfanadvert/lunfanadvert.iml" filepath="$PROJECT_DIR$/lunfanadvert/lunfanadvert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/onandoff/onandoff.iml" filepath="$PROJECT_DIR$/onandoff/onandoff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refreshlistview/refreshlistview.iml" filepath="$PROJECT_DIR$/refreshlistview/refreshlistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidemenu/slidemenu.iml" filepath="$PROJECT_DIR$/slidemenu/slidemenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xialaselect06/xialaselect06.iml" filepath="$PROJECT_DIR$/xialaselect06/xialaselect06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/x下拉刷新/x下拉刷新.iml" filepath="$PROJECT_DIR$/x下拉刷新/x下拉刷新.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youkuMenu/youkuMenu.iml" filepath="$PROJECT_DIR$/youkuMenu/youkuMenu.iml" />
+    </modules>
+  </component>
+</project>

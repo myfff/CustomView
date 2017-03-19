@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--按下的时候为我们自己定义的颜色
+为按下的时候为系统颜色-->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:drawable="@color/bt_bg_pressed"/>
+    <item android:drawable="@android:color/transparent"/>
+
+</selector>

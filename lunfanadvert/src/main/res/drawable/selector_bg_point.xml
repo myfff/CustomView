@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--图片选择器，-->
+    <item android:state_enabled="true" android:drawable="@drawable/shape_bg_point_enble"/>
+    <item android:state_enabled="false" android:drawable="@drawable/shape_bg_point_unenble"/>
+</selector>
